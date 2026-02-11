@@ -42,7 +42,8 @@ COVID19-Data-Analysis/
 ├── data/ 
 │   └── covid_19_data.csv
 ├── notebook/ 
-│   └── covid_analysis.ipynb └── README.md
+│   └── covid_analysis.ipynb
+|   └── README.md
 ```
 
 
